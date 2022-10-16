@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "OpenRecorder (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "OpenRecorder (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
